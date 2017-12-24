@@ -17,7 +17,7 @@ three | three
 four | four
 four |
 
-Result: one, two, three, three, four, four
+Result: one, two, three, three, four, four, four
 
 ### [Union](https://en.wikipedia.org/wiki/Set_(mathematics)#Unions)
 The result is items from both lists, but only one item for every match. Example:
