@@ -1,7 +1,7 @@
 # Sublime Lines - Multisets
 This Sublime Text plugin allows you to compare, merge and manipulate lists of things,
-whether they are todo items, lists of files or arrays from API responses.
-![Comparing a giveaway list with two wishlists](https://github.com/heldev/sublime-lines-multisets/raw/master/demo-giveaway-list.png)
+whether they are todo items, lists of files or arrays from API responses:
+![Demo - comparing a giveaway list with two wishlists](https://github.com/heldev/sublime-lines-multisets/raw/master/demo-giveaway-list.gif)
 
 ## How to use
 Switch to a file with a list you want to modify and select an operation to perform from the Command Palette
