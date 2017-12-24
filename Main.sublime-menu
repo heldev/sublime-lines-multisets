@@ -1,0 +1,42 @@
+[
+	{
+		"id": "edit",
+		"children": [
+			{
+				"id": "lines_multisets",
+				"caption": "Lines - Multisets",
+				"children": [
+					{
+						"caption": "Sum",
+						"command": "lines_multisets_choose_view",
+						"args": { "operation_name": "sum" }
+					},
+
+					{
+						"caption": "Union",
+						"command": "lines_multisets_choose_view",
+						"args": { "operation_name": "union" }
+					},
+
+					{
+						"caption": "Intersection",
+						"command": "lines_multisets_choose_view",
+						"args": { "operation_name": "intersection" }
+					},
+
+					{
+						"caption": "Difference",
+						"command": "lines_multisets_choose_view",
+						"args": { "operation_name": "difference" }
+					},
+
+					{
+						"caption": "Symmetric Difference",
+						"command": "lines_multisets_choose_view",
+						"args": { "operation_name": "symmetric_difference" }
+					}
+				]
+			}
+		]
+	}
+]
