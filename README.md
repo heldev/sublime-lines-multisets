@@ -1,9 +1,9 @@
 # Sublime Lines - Multisets
 
-[![Build Status](https://travis-ci.org/evandrocoan/LinesMultisets.svg?branch=master)](https://travis-ci.org/evandrocoan/LinesMultisets)
-[![Build status](https://ci.appveyor.com/api/projects/status/github/evandrocoan/LinesMultisets?branch=master&svg=true)](https://ci.appveyor.com/project/evandrocoan/LinesMultisets/branch/master)
-[![codecov](https://codecov.io/gh/evandrocoan/LinesMultisets/branch/master/graph/badge.svg)](https://codecov.io/gh/evandrocoan/LinesMultisets)
-[![Coverage Status](https://coveralls.io/repos/github/evandrocoan/LinesMultisets/badge.svg?branch=master)](https://coveralls.io/github/evandrocoan/LinesMultisets?branch=master)
+[![Build Status](https://api.travis-ci.org/heldev/sublime-lines-multisets.svg?branch=master)](https://api.travis-ci.org/heldev/sublime-lines-multisets.svg?branch=master)
+[![Build status](https://ci.appveyor.com/api/projects/status/y6yjnbw21y2cnxa2/branch/master?svg=true)](https://ci.appveyor.com/project/heldev/sublime-lines-multisets/branch/master)
+[![codecov](https://codecov.io/gh/heldev/sublime-lines-multisets/branch/master/graph/badge.svg)](https://codecov.io/gh/heldev/sublime-lines-multisets)
+[![Coverage Status](https://coveralls.io/repos/github/heldev/sublime-lines-multisets/badge.svg?branch=master)](https://coveralls.io/github/heldev/sublime-lines-multisets?branch=master)
 <a href="https://packagecontrol.io/packages/LinesMultisets"><img src="https://packagecontrol.herokuapp.com/downloads/LinesMultisets.svg"></a>
 
 This Sublime Text plugin allows you to compare, merge and manipulate lists of things,
