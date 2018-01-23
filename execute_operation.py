@@ -1,14 +1,15 @@
 from collections import Counter
+import operator
 
 from sublime import Region
 from sublime_plugin import TextCommand
 
 
 OPERATIONS = {
-	'sum': lambda a, b: a + b,
-	'union': lambda a, b: a | b,
-	'intersection': lambda a, b: a & b,
-	'difference': lambda a, b: a - b,
+	'sum': operator.add,
+	'union': operator.or_,
+	'intersection': operator.and_,
+	'difference': operator.sub,
 	'symmetric_difference': lambda a, b: (a | b) - (a & b)}
 
 
